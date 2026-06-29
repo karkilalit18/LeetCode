@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/karkilalit18/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
