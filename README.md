@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/karkilalit18/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/karkilalit18/LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/karkilalit18/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Hash Table
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## String
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+## Counting
+|  |
+| ------- |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
