@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karkilalit18/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/karkilalit18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1792-maximum-average-pass-ratio](https://github.com/karkilalit18/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Greedy
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karkilalit18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Stack
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1797-design-authentication-manager](https://github.com/karkilalit18/LeetCode/tree/master/1797-design-authentication-manager) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karkilalit18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
