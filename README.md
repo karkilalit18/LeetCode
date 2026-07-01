@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karkilalit18/LeetCode/tree/master/0001-two-sum) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1797-design-authentication-manager](https://github.com/karkilalit18/LeetCode/tree/master/1797-design-authentication-manager) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/karkilalit18/LeetCode/tree/master/0001-two-sum) |
 | [1792-maximum-average-pass-ratio](https://github.com/karkilalit18/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Greedy
