@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 ## Counting
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2895-minimum-processing-time](https://github.com/karkilalit18/LeetCode/tree/master/2895-minimum-processing-time) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2896-apply-operations-to-make-two-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 <!---LeetCode Topics End-->
