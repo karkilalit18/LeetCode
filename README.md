@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Counting
 |  |
 | ------- |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2895-minimum-processing-time](https://github.com/karkilalit18/LeetCode/tree/master/2895-minimum-processing-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/karkilalit18/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Greedy
 |  |
 | ------- |
 | [1792-maximum-average-pass-ratio](https://github.com/karkilalit18/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [2895-minimum-processing-time](https://github.com/karkilalit18/LeetCode/tree/master/2895-minimum-processing-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/karkilalit18/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bit Manipulation
 |  |
 | ------- |
