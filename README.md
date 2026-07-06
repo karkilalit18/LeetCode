@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/karkilalit18/LeetCode/tree/master/0007-reverse-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karkilalit18/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Sorting
 |  |
