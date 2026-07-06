@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karkilalit18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karkilalit18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/karkilalit18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/karkilalit18/LeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
