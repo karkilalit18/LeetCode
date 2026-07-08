@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/karkilalit18/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/karkilalit18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karkilalit18/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/karkilalit18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/karkilalit18/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/karkilalit18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/karkilalit18/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/karkilalit18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1792-maximum-average-pass-ratio](https://github.com/karkilalit18/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2895-minimum-processing-time](https://github.com/karkilalit18/LeetCode/tree/master/2895-minimum-processing-time) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/karkilalit18/LeetCode/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/karkilalit18/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
