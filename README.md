@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/karkilalit18/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/karkilalit18/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/karkilalit18/LeetCode/tree/master/0013-roman-to-integer) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1797-design-authentication-manager](https://github.com/karkilalit18/LeetCode/tree/master/1797-design-authentication-manager) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/karkilalit18/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/karkilalit18/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/karkilalit18/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/karkilalit18/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/karkilalit18/LeetCode/tree/master/0013-roman-to-integer) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2896-apply-operations-to-make-two-strings-equal](https://github.com/karkilalit18/LeetCode/tree/master/2896-apply-operations-to-make-two-strings-equal) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/karkilalit18/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/karkilalit18/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/karkilalit18/LeetCode/tree/master/0013-roman-to-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karkilalit18/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Sorting
 |  |
