@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/karkilalit18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/karkilalit18/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/karkilalit18/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karkilalit18/LeetCode/tree/master/0016-3sum-closest) |
 | [1792-maximum-average-pass-ratio](https://github.com/karkilalit18/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2895-minimum-processing-time](https://github.com/karkilalit18/LeetCode/tree/master/2895-minimum-processing-time) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/karkilalit18/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/karkilalit18/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/karkilalit18/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karkilalit18/LeetCode/tree/master/0016-3sum-closest) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Search
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karkilalit18/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karkilalit18/LeetCode/tree/master/0016-3sum-closest) |
 | [2895-minimum-processing-time](https://github.com/karkilalit18/LeetCode/tree/master/2895-minimum-processing-time) |
 ## Dynamic Programming
 |  |
