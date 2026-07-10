@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/karkilalit18/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/karkilalit18/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karkilalit18/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/karkilalit18/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/karkilalit18/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1797-design-authentication-manager](https://github.com/karkilalit18/LeetCode/tree/master/1797-design-authentication-manager) |
 ## Design
 |  |
