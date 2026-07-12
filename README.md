@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/karkilalit18/LeetCode/tree/master/0011-container-with-most-water) |
 | [1792-maximum-average-pass-ratio](https://github.com/karkilalit18/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/karkilalit18/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2895-minimum-processing-time](https://github.com/karkilalit18/LeetCode/tree/master/2895-minimum-processing-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/karkilalit18/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/karkilalit18/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/karkilalit18/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/karkilalit18/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/karkilalit18/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karkilalit18/LeetCode/tree/master/0013-roman-to-integer) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/karkilalit18/LeetCode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/karkilalit18/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Sorting
 |  |
