@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/karkilalit18/LeetCode/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/karkilalit18/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/karkilalit18/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/karkilalit18/LeetCode/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2895-minimum-processing-time](https://github.com/karkilalit18/LeetCode/tree/master/2895-minimum-processing-time) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/karkilalit18/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/karkilalit18/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/karkilalit18/LeetCode/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/karkilalit18/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karkilalit18/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/karkilalit18/LeetCode/tree/master/1803-count-pairs-with-xor-in-a-range) |
 ## Backtracking
 |  |
 | ------- |
